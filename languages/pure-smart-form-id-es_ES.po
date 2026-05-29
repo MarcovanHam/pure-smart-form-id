@@ -1,0 +1,940 @@
+# Spanish translation for Pure Smart Form ID
+# Copyright (C) 2026 Marco van Ham
+msgid ""
+msgstr ""
+"Project-Id-Version: Pure Smart Form ID 1.1.0\n"
+"Last-Translator: Marco van Ham <info@marcovanham.nl>\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Pure Smart Form ID"
+msgstr "Pure Smart Form ID"
+
+msgid "Smart form tokens for cross-form pre-fill, multi-step funnels and CRM integration. Works with Fluent Forms and Gravity Forms. GDPR-friendly: no personal data in URLs."
+msgstr "Tokens inteligentes para prerellenar formularios entre páginas, funnels multipaso e integración con CRM. Funciona con Fluent Forms y Gravity Forms. Conforme al RGPD: sin datos personales en las URLs."
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Dashboard"
+msgstr "Panel"
+
+msgid "Tokens"
+msgstr "Tokens"
+
+msgid "Fields"
+msgstr "Campos"
+
+msgid "Integrations"
+msgstr "Integraciones"
+
+msgid "Branding"
+msgstr "Marca"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "never"
+msgstr "nunca"
+
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+msgid "Save integrations"
+msgstr "Guardar integraciones"
+
+msgid "Save branding"
+msgstr "Guardar marca"
+
+msgid "Save fields"
+msgstr "Guardar campos"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Details"
+msgstr "Detalles"
+
+msgid "CSV"
+msgstr "CSV"
+
+msgid "Token not found"
+msgstr "Token no encontrado"
+
+msgid "Access denied"
+msgstr "Acceso denegado"
+
+msgid "Invalid ID"
+msgstr "ID no válido"
+
+msgid "Total tokens"
+msgstr "Tokens totales"
+
+msgid "Active (not expired)"
+msgstr "Activos (no caducados)"
+
+msgid "Updated in 24h"
+msgstr "Actualizados en 24h"
+
+msgid "Updated in 7 days"
+msgstr "Actualizados en 7 días"
+
+msgid "Expired"
+msgstr "Caducados"
+
+msgid "Quick actions"
+msgstr "Acciones rápidas"
+
+msgid "View all tokens"
+msgstr "Ver todos los tokens"
+
+msgid "Download all data (CSV)"
+msgstr "Descargar todos los datos (CSV)"
+
+msgid "Run cleanup now"
+msgstr "Ejecutar limpieza ahora"
+
+msgid "Run cleanup now?"
+msgstr "¿Ejecutar limpieza ahora?"
+
+msgid "Quick start"
+msgstr "Inicio rápido"
+
+msgid "Activate Fluent Forms or Gravity Forms (or both)."
+msgstr "Activa Fluent Forms o Gravity Forms (o ambos)."
+
+msgid "Warning:"
+msgstr "Aviso:"
+
+msgid "Neither Fluent Forms nor Gravity Forms is active. Activate at least one to use the plugin."
+msgstr "Ni Fluent Forms ni Gravity Forms están activos. Activa al menos uno para usar el plugin."
+
+msgid "Help page"
+msgstr "Página de ayuda"
+
+msgid "Cleanup completed. Tokens removed: %d"
+msgstr "Limpieza completada. Tokens eliminados: %d"
+
+msgid "Go to %s and optionally choose a CRM."
+msgstr "Ve a %s y elige opcionalmente un CRM."
+
+msgid "Map the hidden token field in your CRM. Field name: %s"
+msgstr "Asigna el campo oculto del token en tu CRM. Nombre del campo: %s"
+
+msgid "Send emails from your CRM with %s"
+msgstr "Envía correos desde tu CRM con %s"
+
+msgid "Check the %s for detailed examples."
+msgstr "Consulta la %s para ver ejemplos detallados."
+
+msgid "Export all (CSV)"
+msgstr "Exportar todo (CSV)"
+
+msgid "Token:"
+msgstr "Token:"
+
+msgid "Back to overview"
+msgstr "Volver al listado"
+
+msgid "Download as CSV"
+msgstr "Descargar como CSV"
+
+msgid "Delete this token"
+msgstr "Eliminar este token"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Last updated"
+msgstr "Última actualización"
+
+msgid "Expires"
+msgstr "Caduca"
+
+msgid "Source"
+msgstr "Origen"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Phone"
+msgstr "Teléfono"
+
+msgid "CRM synced"
+msgstr "CRM sincronizado"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Updated"
+msgstr "Actualizado"
+
+msgid "CRM"
+msgstr "CRM"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Field"
+msgstr "Campo"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Action"
+msgstr "Acción"
+
+msgid "Audit log"
+msgstr "Registro de auditoría"
+
+msgid "No tokens yet. Submit a form to create one."
+msgstr "Aún no hay tokens. Envía un formulario para crear uno."
+
+msgid "No fields stored."
+msgstr "No hay campos almacenados."
+
+msgid "Search tokens:"
+msgstr "Buscar tokens:"
+
+msgid "Search by token, email or phone..."
+msgstr "Buscar por token, email o teléfono..."
+
+msgid "Fields (%d)"
+msgstr "Campos (%d)"
+
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+msgid "URL and cookie"
+msgstr "URL y cookie"
+
+msgid "URL parameter"
+msgstr "Parámetro URL"
+
+msgid "Cookie name"
+msgstr "Nombre de la cookie"
+
+msgid "Cookie lifetime (days)"
+msgstr "Duración de la cookie (días)"
+
+msgid "How long the cookie stays valid on the visitor's device. Default 30 days."
+msgstr "Cuánto tiempo la cookie permanece válida en el dispositivo del visitante. Por defecto 30 días."
+
+msgid "Cookie consent required"
+msgstr "Consentimiento de cookies obligatorio"
+
+msgid "Only set cookie after explicit consent"
+msgstr "Establecer la cookie solo tras consentimiento explícito"
+
+msgid "Query string parameter name. For example %1$s in %2$s. Default: %3$s."
+msgstr "Nombre del parámetro de la query string. Por ejemplo %1$s en %2$s. Por defecto: %3$s."
+
+msgid "Enable if you use a cookie banner. Other plugins can signal consent via the %s filter."
+msgstr "Activa si usas un banner de cookies. Otros plugins pueden indicar el consentimiento mediante el filtro %s."
+
+msgid "Retention periods"
+msgstr "Periodos de retención"
+
+msgid "Token expiry (days)"
+msgstr "Caducidad del token (días)"
+
+msgid "How long a token in a URL stays valid. Extended on every new activity."
+msgstr "Cuánto tiempo un token en una URL sigue siendo válido. Se amplía con cada nueva actividad."
+
+msgid "Data retention (days)"
+msgstr "Retención de datos (días)"
+
+msgid "Tokens without activity are automatically deleted after X days. Default 90 days."
+msgstr "Los tokens sin actividad se eliminan automáticamente tras X días. Por defecto 90 días."
+
+msgid "Log retention (days)"
+msgstr "Retención de logs (días)"
+
+msgid "Audit log entries older than X days are removed. 0 = never clean up."
+msgstr "Las entradas del registro de auditoría con más de X días se eliminan. 0 = no limpiar nunca."
+
+msgid "Token field"
+msgstr "Campo del token"
+
+msgid "Hidden field name"
+msgstr "Nombre del campo oculto"
+
+msgid "Name of the hidden field injected into forms. Use this in your CRM mapping."
+msgstr "Nombre del campo oculto que se inyecta en los formularios. Úsalo en la asignación de tu CRM."
+
+msgid "Auto-inject token field"
+msgstr "Inyectar campo del token automáticamente"
+
+msgid "Automatically add a hidden token field to every form"
+msgstr "Añadir automáticamente un campo de token oculto en cada formulario"
+
+msgid "Identification fallbacks"
+msgstr "Alternativas de identificación"
+
+msgid "Email match fallback"
+msgstr "Coincidencia por email"
+
+msgid "Identify visitors without a token using their email address"
+msgstr "Identificar visitantes sin token mediante su dirección de email"
+
+msgid "Prevents duplicate records when the user clears cookies or uses another device."
+msgstr "Evita registros duplicados cuando el usuario borra las cookies o usa otro dispositivo."
+
+msgid "Phone match fallback"
+msgstr "Coincidencia por teléfono"
+
+msgid "Identify visitors without a token using their phone number"
+msgstr "Identificar visitantes sin token mediante su número de teléfono"
+
+msgid "Privacy"
+msgstr "Privacidad"
+
+msgid "Delete on uninstall"
+msgstr "Eliminar al desinstalar"
+
+msgid "Erase all data when the plugin is uninstalled"
+msgstr "Borrar todos los datos cuando se desinstale el plugin"
+
+msgid "Integrations saved."
+msgstr "Integraciones guardadas."
+
+msgid "Form plugins"
+msgstr "Plugins de formularios"
+
+msgid "Enable"
+msgstr "Activar"
+
+msgid "Plugin detected"
+msgstr "Plugin detectado"
+
+msgid "Plugin not active"
+msgstr "Plugin no activo"
+
+msgid "CRM connection"
+msgstr "Conexión CRM"
+
+msgid "Provider"
+msgstr "Proveedor"
+
+msgid "No connection"
+msgstr "Sin conexión"
+
+msgid "not active"
+msgstr "no activo"
+
+msgid "API URL"
+msgstr "URL de la API"
+
+msgid "Found in ActiveCampaign under Settings &rarr; Developer."
+msgstr "Disponible en ActiveCampaign en Settings &rarr; Developer."
+
+msgid "API Key"
+msgstr "Clave API"
+
+msgid "Test connection"
+msgstr "Probar conexión"
+
+msgid "List ID"
+msgstr "ID de lista"
+
+msgid "Optional. Contacts will be added to this list. 0 = do not add to a list."
+msgstr "Opcional. Los contactos se añadirán a esta lista. 0 = no añadir a una lista."
+
+msgid "Custom field ID for token"
+msgstr "ID del campo personalizado para el token"
+
+msgid "Optional. Create a custom field in ActiveCampaign (e.g. \"PSFID Token\") and enter its ID here."
+msgstr "Opcional. Crea un campo personalizado en ActiveCampaign (p.ej. \"PSFID Token\") e introduce su ID aquí."
+
+msgid "Connects automatically with FluentCRM. The token is stored as the custom field %s on every contact. This custom field is created automatically when you save these settings."
+msgstr "Se conecta automáticamente con FluentCRM. El token se guarda como campo personalizado %s en cada contacto. Este campo personalizado se crea automáticamente al guardar estos ajustes."
+
+msgid "Fields saved."
+msgstr "Campos guardados."
+
+msgid "Field aliases"
+msgstr "Alias de campo"
+
+msgid "Alias (form field name)"
+msgstr "Alias (nombre del campo del formulario)"
+
+msgid "Standard key"
+msgstr "Clave estándar"
+
+msgid "Add row"
+msgstr "Añadir fila"
+
+msgid "Whitelist (optional)"
+msgstr "Lista blanca (opcional)"
+
+msgid "If you list field names here (one per line), only those fields will be stored. Leave empty to store all fields."
+msgstr "Si escribes nombres de campo aquí (uno por línea), solo se guardarán esos campos. Déjalo vacío para guardar todos los campos."
+
+msgid "e.g. mailadres"
+msgstr "p.ej. correo"
+
+msgid "e.g. email"
+msgstr "p.ej. email"
+
+msgid "Translate localized field names to standard keys. For example: %1$s &rarr; %2$s."
+msgstr "Traduce nombres de campo locales a claves estándar. Por ejemplo: %1$s &rarr; %2$s."
+
+msgid "Branding (whitelabel)"
+msgstr "Marca (whitelabel)"
+
+msgid "Branding saved."
+msgstr "Marca guardada."
+
+msgid "Plugin name"
+msgstr "Nombre del plugin"
+
+msgid "Menu label"
+msgstr "Etiqueta del menú"
+
+msgid "Support URL"
+msgstr "URL de soporte"
+
+msgid "Documentation URL"
+msgstr "URL de documentación"
+
+msgid "Show credits"
+msgstr "Mostrar créditos"
+
+msgid "Display \"Powered by\" in admin footer"
+msgstr "Mostrar \"Powered by\" en el pie del admin"
+
+msgid "Whitelabel via wp-config.php"
+msgstr "Whitelabel mediante wp-config.php"
+
+msgid "Customize the name, menu label and links so the plugin works under your own brand. For partners who want to enforce values via code: use constants in %s (see below)."
+msgstr "Personaliza el nombre, la etiqueta del menú y los enlaces para que el plugin funcione bajo tu propia marca. Para partners que quieran fijar los valores por código: usa constantes en %s (ver abajo)."
+
+msgid "When you set these constants in %s, they override the values above and the end-user can no longer change them."
+msgstr "Cuando defines estas constantes en %s, anulan los valores anteriores y el usuario final ya no puede modificarlos."
+
+msgid "Overridden by constant %s."
+msgstr "Sobrescrito por la constante %s."
+
+msgid "Help &amp; Quick start"
+msgstr "Ayuda &amp; Inicio rápido"
+
+msgid "What does this plugin do?"
+msgstr "¿Qué hace este plugin?"
+
+msgid "This plugin gives every visitor a unique short code (token), so you can remember form data without putting personal information in URLs. Avoids GDPR issues, ad-blocker problems, and keeps cross-form data consistent."
+msgstr "Este plugin asigna a cada visitante un código corto único (token), para que puedas recordar los datos del formulario sin poner información personal en las URLs. Evita problemas con el RGPD, conflictos con bloqueadores de anuncios y mantiene los datos consistentes entre formularios."
+
+msgid "Step 1 - Configure the plugin"
+msgstr "Paso 1 - Configurar el plugin"
+
+msgid "Optional: choose a CRM (FluentCRM or ActiveCampaign)."
+msgstr "Opcional: elige un CRM (FluentCRM o ActiveCampaign)."
+
+msgid "Go to %s and enable your form plugin(s)."
+msgstr "Ve a %s y activa tu(s) plugin(s) de formularios."
+
+msgid "Check the %s and adjust retention periods to your liking."
+msgstr "Revisa los %s y ajusta los periodos de retención a tu gusto."
+
+msgid "Step 2 - Pass the token to your CRM"
+msgstr "Paso 2 - Pasar el token a tu CRM"
+
+msgid "The plugin automatically adds a hidden field %s to every form. In your form mapping (Fluent Forms / Gravity Forms), connect this field to a custom field in your CRM."
+msgstr "El plugin añade automáticamente un campo oculto %s en cada formulario. En la asignación de tu formulario (Fluent Forms / Gravity Forms), conecta este campo con un campo personalizado de tu CRM."
+
+msgid "With FluentCRM"
+msgstr "Con FluentCRM"
+
+msgid "The custom field %1$s is created automatically. In FluentCRM emails you can use the token as %2$s."
+msgstr "El campo personalizado %1$s se crea automáticamente. En los emails de FluentCRM puedes usar el token como %2$s."
+
+msgid "With ActiveCampaign"
+msgstr "Con ActiveCampaign"
+
+msgid "Create a custom field (e.g. name: PSFID Token, type: Text). Enter that field's ID on the Integrations page."
+msgstr "Crea un campo personalizado (p.ej. nombre: PSFID Token, tipo: Texto). Introduce el ID de ese campo en la página de Integraciones."
+
+msgid "Step 3 - Email with the token in the link"
+msgstr "Paso 3 - Email con el token en el enlace"
+
+msgid "From your CRM, send follow-up emails with links like:"
+msgstr "Desde tu CRM, envía emails de seguimiento con enlaces como:"
+
+msgid "When the customer clicks the link, the next form is automatically pre-filled with the known data."
+msgstr "Cuando el cliente hace clic en el enlace, el siguiente formulario se prerellena automáticamente con los datos conocidos."
+
+msgid "Step 4 - Display data on pages"
+msgstr "Paso 4 - Mostrar datos en las páginas"
+
+msgid "Use these shortcodes:"
+msgstr "Usa estos shortcodes:"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "What it does"
+msgstr "Qué hace"
+
+msgid "Shows the first name if known, nothing otherwise."
+msgstr "Muestra el nombre si se conoce, nada en caso contrario."
+
+msgid "Shows first name, or \"dear customer\" if unknown."
+msgstr "Muestra el nombre, o \"estimado cliente\" si se desconoce."
+
+msgid "Wraps in a different HTML element (default: span)."
+msgstr "Lo envuelve en otro elemento HTML (por defecto: span)."
+
+msgid "Just the token string itself."
+msgstr "Solo la cadena del token."
+
+msgid "Renders only if the first name is known. Curly braces are replaced with the value."
+msgstr "Solo se muestra si el nombre es conocido. Las llaves se sustituyen por el valor."
+
+msgid "Cookies and recognition"
+msgstr "Cookies y reconocimiento"
+
+msgid "The plugin recognizes a visitor in this order:"
+msgstr "El plugin reconoce a un visitante en este orden:"
+
+msgid "URL parameter %s"
+msgstr "Parámetro URL %s"
+
+msgid "Cookie on the visitor's device"
+msgstr "Cookie en el dispositivo del visitante"
+
+msgid "Email match: when the visitor enters the same email again, the existing token is reused."
+msgstr "Coincidencia por email: cuando el visitante introduce el mismo email de nuevo, se reutiliza el token existente."
+
+msgid "Phone match: when the visitor enters the same phone number again."
+msgstr "Coincidencia por teléfono: cuando el visitante introduce el mismo número de teléfono de nuevo."
+
+msgid "New token if none of the above match."
+msgstr "Token nuevo si ninguna de las anteriores coincide."
+
+msgid "Frequently asked questions"
+msgstr "Preguntas frecuentes"
+
+msgid "Does this work across multiple domains?"
+msgstr "¿Funciona entre varios dominios?"
+
+msgid "Cookies work per domain. Between domains, you pass the token via the URL (%s). You do that via your CRM email."
+msgstr "Las cookies funcionan por dominio. Entre dominios, pasas el token por la URL (%s). Lo haces a través del email de tu CRM."
+
+msgid "What if a customer clears their cookies?"
+msgstr "¿Qué pasa si un cliente borra sus cookies?"
+
+msgid "With the email match fallback enabled, the customer is recognized as soon as they enter their email again. No duplicate records."
+msgstr "Con la coincidencia por email activada, el cliente es reconocido en cuanto introduce su email de nuevo. Sin registros duplicados."
+
+msgid "How long is data retained?"
+msgstr "¿Durante cuánto tiempo se conservan los datos?"
+
+msgid "By default 90 days after last activity (configurable). After that, the record is deleted automatically. Manual cleanup can be triggered from the Dashboard."
+msgstr "Por defecto 90 días tras la última actividad (configurable). Después, el registro se elimina automáticamente. Una limpieza manual puede iniciarse desde el Panel."
+
+msgid "Can I export?"
+msgstr "¿Puedo exportar?"
+
+msgid "Yes. On the %s page you can download per token or everything in one CSV. Useful as backup or when your CRM is temporarily offline."
+msgstr "Sí. En la página %s puedes descargar por token o todo en un único CSV. Útil como copia de seguridad o cuando tu CRM está temporalmente fuera de servicio."
+
+msgid "For developers"
+msgstr "Para desarrolladores"
+
+msgid "Available hooks:"
+msgstr "Hooks disponibles:"
+
+msgid "fired after every successful capture"
+msgstr "se dispara tras cada captura exitosa"
+
+msgid "cookie consent integration"
+msgstr "integración del consentimiento de cookies"
+
+msgid "REST endpoint:"
+msgstr "Endpoint REST:"
+
+msgid "Are you sure you want to delete this token?"
+msgstr "¿Seguro que quieres eliminar este token?"
+
+msgid "Testing..."
+msgstr "Probando..."
+
+msgid "Connected:"
+msgstr "Conectado:"
+
+msgid "Failed:"
+msgstr "Fallido:"
+
+msgid "unknown error"
+msgstr "error desconocido"
+
+msgid "Please enter both URL and API key"
+msgstr "Introduce la URL y la clave API"
+
+msgid "Connection failed"
+msgstr "Conexión fallida"
+
+# Help: form setup (v1.1.1)
+msgid "How to set up your form fields"
+msgstr "Cómo configurar los campos del formulario"
+
+msgid "For the plugin to recognize fields like email, phone or name correctly, your form fields need to be identifiable. Three options, in order of recommendation:"
+msgstr "Para que el plugin reconozca correctamente campos como email, teléfono o nombre, los campos del formulario deben ser identificables. Tres opciones, por orden de recomendación:"
+
+msgid "Option 1 (best): use the right field type"
+msgstr "Opción 1 (mejor): usa el tipo de campo adecuado"
+
+msgid "In Gravity Forms and Fluent Forms, use the dedicated field types instead of generic \"Single Line Text\". Recommended types:"
+msgstr "En Gravity Forms y Fluent Forms, usa los tipos de campo dedicados en lugar de un \"Single Line Text\" genérico. Tipos recomendados:"
+
+msgid "Email field"
+msgstr "Campo de email"
+
+msgid "Phone field"
+msgstr "Campo de teléfono"
+
+msgid "Name field"
+msgstr "Campo de nombre"
+
+msgid "Address field"
+msgstr "Campo de dirección"
+
+msgid "recognized as"
+msgstr "reconocido como"
+
+msgid "These types are language-independent: it does not matter what label you give them. \"Wat is jouw mobiele nummer?\" with type Phone is recognized as phone automatically."
+msgstr "Estos tipos son independientes del idioma: no importa qué etiqueta uses. \"Wat is jouw mobiele nummer?\" con tipo Phone se reconoce automáticamente como phone."
+
+msgid "Option 2: set the Parameter Name (for Single Line Text fields)"
+msgstr "Opción 2: define el Nombre de Parámetro (para campos Single Line Text)"
+
+msgid "Gravity Forms:"
+msgstr "Gravity Forms:"
+
+msgid "Edit the field &rarr; Advanced tab &rarr; tick \"Allow field to be populated dynamically\" &rarr; enter the standard key as Parameter Name (e.g. phone, email, first_name, company)."
+msgstr "Edita el campo &rarr; pestaña Avanzado &rarr; marca \"Permitir que el campo se rellene dinámicamente\" &rarr; introduce la clave estándar como Nombre de Parámetro (p.ej. phone, email, first_name, company)."
+
+msgid "Fluent Forms:"
+msgstr "Fluent Forms:"
+
+msgid "Edit the field &rarr; Element Settings &rarr; set \"Name Attribute\" to the standard key (e.g. phone, email, first_name, company)."
+msgstr "Edita el campo &rarr; Element Settings &rarr; pon \"Name Attribute\" a la clave estándar (p.ej. phone, email, first_name, company)."
+
+msgid "Option 3 (fallback): use a recognizable label"
+msgstr "Opción 3 (alternativa): usa una etiqueta reconocible"
+
+msgid "If you cannot change the field type or parameter, the plugin tries to recognize the label. Labels containing one of these words will be matched automatically:"
+msgstr "Si no puedes cambiar el tipo de campo o el parámetro, el plugin intenta reconocer la etiqueta. Las etiquetas que contengan una de estas palabras se asociarán automáticamente:"
+
+msgid "If none of the three options apply, the field is stored under its raw label (e.g. \"wat_is_jouw_mobiele_nummer\"). It still works for cross-form pre-fill on identical labels, but the email/phone match-fallback and CRM mapping will not detect it."
+msgstr "Si ninguna de las tres opciones aplica, el campo se guarda bajo su etiqueta original (p.ej. \"wat_is_jouw_mobiele_nummer\"). El prerellenado entre formularios sigue funcionando con etiquetas idénticas, pero el fallback de email/teléfono y la asignación de CRM no lo detectarán."
+
+msgid "Standard keys overview"
+msgstr "Resumen de claves estándar"
+
+msgid "For"
+msgstr "Para"
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "Last name"
+msgstr "Apellido"
+
+msgid "Email address"
+msgstr "Dirección de email"
+
+msgid "Phone / mobile number"
+msgstr "Teléfono / móvil"
+
+msgid "Company name"
+msgstr "Nombre de empresa"
+
+msgid "Street address"
+msgstr "Dirección"
+
+msgid "Postal code"
+msgstr "Código postal"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "Country"
+msgstr "País"
+
+# Test mode + delete (v1.1.1)
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Test mode"
+msgstr "Modo prueba"
+
+msgid "Delete all tokens (test mode)"
+msgstr "Eliminar todos los tokens (modo prueba)"
+
+msgid "Delete ALL tokens permanently? This cannot be undone."
+msgstr "¿Eliminar TODOS los tokens permanentemente? Esto no se puede deshacer."
+
+msgid "Are you really sure? All token data will be erased."
+msgstr "¿Estás realmente seguro? Se borrarán todos los datos de tokens."
+
+msgid "Useful while testing without burning through email addresses. Asks for double confirmation."
+msgstr "Útil al hacer pruebas sin gastar direcciones de email. Pide doble confirmación."
+
+msgid "All tokens deleted: %d records erased."
+msgstr "Todos los tokens eliminados: %d registros borrados."
+
+
+# Help: rewrite v1.1.2
+msgid "Recommended: always use the dedicated field type."
+msgstr "Recomendado: usa siempre el tipo de campo dedicado."
+
+msgid "It works automatically in any language, validates input, and never breaks if you rename a label."
+msgstr "Funciona automáticamente en cualquier idioma, valida la entrada y nunca falla si renombras una etiqueta."
+
+msgid "Recommended approach: use the right field type"
+msgstr "Enfoque recomendado: usa el tipo de campo adecuado"
+
+msgid "In Gravity Forms and Fluent Forms, use the dedicated field types instead of generic \"Single Line Text\". This is the only setup we actively support and recommend:"
+msgstr "En Gravity Forms y Fluent Forms, usa los tipos de campo dedicados en lugar de un \"Single Line Text\" genérico. Esta es la única configuración que damos soporte activo y recomendamos:"
+
+msgid "These types are language-independent: it does not matter what label you give them. A Phone field labelled \"Wat is jouw mobiele nummer?\" is automatically recognized as phone."
+msgstr "Estos tipos son independientes del idioma: no importa qué etiqueta uses. Un campo Phone con la etiqueta \"Wat is jouw mobiele nummer?\" se reconoce automáticamente como phone."
+
+msgid "Alternative: set the Parameter Name"
+msgstr "Alternativa: define el Nombre de Parámetro"
+
+msgid "Only use this if you cannot replace an existing Single Line Text field, or if you need multiple phone/email fields in one form (e.g. work phone vs personal phone) that should map to different keys."
+msgstr "Úsalo solo si no puedes reemplazar un campo Single Line Text existente, o si necesitas varios campos de teléfono/email en un formulario (p.ej. teléfono del trabajo vs personal) que deben asignarse a claves diferentes."
+
+msgid "Last resort: label fallback"
+msgstr "Último recurso: alternativa por etiqueta"
+
+msgid "As a safety net, the plugin tries to recognize labels containing words like \"telefoon\", \"mobiel\", \"phone\", \"email\", \"bedrijf\", \"company\". This is fragile: it breaks the moment you rename a label or use a synonym. Use it only when you have absolutely no control over the form (e.g. a third-party form you cannot modify). Not recommended for production."
+msgstr "Como red de seguridad, el plugin intenta reconocer etiquetas que contengan palabras como \"telefoon\", \"mobiel\", \"phone\", \"email\", \"bedrijf\", \"company\". Es frágil: se rompe en cuanto renombras una etiqueta o usas un sinónimo. Úsalo solo cuando no tengas absolutamente ningún control sobre el formulario (p.ej. un formulario de terceros que no puedes modificar). No se recomienda para producción."
+
+msgid "If none of the three options apply, the field is stored under its raw label. Cross-form pre-fill still works for identical labels, but the email/phone match-fallback and CRM mapping will not detect it."
+msgstr "Si ninguna de las tres opciones aplica, el campo se guarda bajo su etiqueta original. El prerellenado entre formularios sigue funcionando con etiquetas idénticas, pero el fallback de email/teléfono y la asignación de CRM no lo detectarán."
+
+# v1.1.4: WP dashboard widget + About card
+msgid "Total"
+msgstr "Total"
+
+msgid "Active"
+msgstr "Activos"
+
+msgid "Last 24h"
+msgstr "Últimas 24h"
+
+msgid "Recent activity"
+msgstr "Actividad reciente"
+
+msgid "%s ago"
+msgstr "hace %s"
+
+msgid "No tokens captured yet. Submit a form to see activity here."
+msgstr "Aún no hay tokens. Envía un formulario para ver actividad aquí."
+
+msgid "Open dashboard"
+msgstr "Abrir panel"
+
+msgid "All tokens"
+msgstr "Todos los tokens"
+
+msgid "Made by %1$s &middot; %2$s"
+msgstr "Creado por %1$s &middot; %2$s"
+
+msgid "%1$s &middot; Made by %2$s &middot; %3$s"
+msgstr "%1$s &middot; Creado por %2$s &middot; %3$s"
+
+msgid "About this plugin"
+msgstr "Acerca de este plugin"
+
+msgid "Pure Smart Form ID is built by %1$s &middot; %2$s"
+msgstr "Pure Smart Form ID está creado por %1$s &middot; %2$s"
+
+msgid "More plugins are on the way. Check pureplugins.eu for updates."
+msgstr "Más plugins en camino. Visita pureplugins.eu para novedades."
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Support"
+msgstr "Soporte"
+
+# Help TOC v1.1.5
+msgid "Jump to"
+msgstr "Saltar a"
+
+msgid "Step 1 - Configure"
+msgstr "Paso 1 - Configurar"
+
+msgid "Step 2 - CRM"
+msgstr "Paso 2 - CRM"
+
+msgid "Step 3 - Email link"
+msgstr "Paso 3 - Enlace por email"
+
+msgid "Step 4 - Display data"
+msgstr "Paso 4 - Mostrar datos"
+
+msgid "Form field setup"
+msgstr "Configurar campos"
+
+msgid "Cookies"
+msgstr "Cookies"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Developers"
+msgstr "Desarrolladores"
+
+# === 1.3.0 additions ===
+
+msgid "Auto-link logged-in WordPress users"
+msgstr "Vincular automáticamente usuarios de WordPress conectados"
+
+msgid "Identify logged-in WordPress users via their account email"
+msgstr "Identificar usuarios de WordPress conectados a través del email de su cuenta"
+
+msgid "Existing tokens are reused. If a logged-in user has no token yet, a new one is created automatically (source: wp_user_auto). Turn this off if you do not want tokens for non-form visitors (admins, customers, forum members)."
+msgstr "Los tokens existentes se reutilizan. Si un usuario conectado aún no tiene token, se crea uno automáticamente (origen: wp_user_auto). Desactiva esto si no quieres tokens para visitantes que no rellenan formularios (administradores, clientes, miembros del foro)."
+
+msgid "FluentCRM data source"
+msgstr "Fuente de datos FluentCRM"
+
+msgid "When FluentCRM is active, contact fields and custom_values from FluentCRM can be merged into PSFID resolver fields. Forms then pre-fill with the latest CRM data automatically."
+msgstr "Cuando FluentCRM está activo, los campos de contacto y custom_values de FluentCRM pueden fusionarse en los campos del resolver de PSFID. Los formularios se rellenan automáticamente con los datos más recientes del CRM."
+
+msgid "Merge FluentCRM data"
+msgstr "Fusionar datos de FluentCRM"
+
+msgid "Read contact fields and custom_values from FluentCRM into PSFID"
+msgstr "Leer campos de contacto y custom_values de FluentCRM en PSFID"
+
+msgid "FluentCRM wins on conflicts: if both PSFID and FluentCRM have a value for the same field, the FluentCRM value is used. Empty FluentCRM values never overwrite PSFID data."
+msgstr "FluentCRM gana en caso de conflicto: si PSFID y FluentCRM tienen un valor para el mismo campo, se usa el de FluentCRM. Los valores vacíos de FluentCRM nunca sobrescriben los datos de PSFID."
+
+msgid "Developers: restrict which fields are merged via the %s filter."
+msgstr "Desarrolladores: limita qué campos se fusionan mediante el filtro %s."
+
+msgid "Logged-in WordPress user: matched on account email. Existing token reused, otherwise a new one is created (source: wp_user_auto)."
+msgstr "Usuario de WordPress conectado: coincidencia por email de cuenta. Se reutiliza el token existente, si no se crea uno nuevo (origen: wp_user_auto)."
+
+msgid "Automatic WordPress user recognition"
+msgstr "Reconocimiento automático de usuarios de WordPress"
+
+msgid "New in 1.3.0"
+msgstr "Nuevo en 1.3.0"
+
+msgid "Logged-in WordPress users are automatically linked to a Pure Smart Form ID token via their account email address. This means forms pre-fill with the user's known data without them needing to click a link with a token."
+msgstr "Los usuarios de WordPress conectados se vinculan automáticamente a un token de Pure Smart Form ID a través del email de su cuenta. Los formularios se rellenan con los datos conocidos sin que el usuario tenga que hacer clic en un enlace con token."
+
+msgid "When to use it"
+msgstr "Cuándo usarlo"
+
+msgid "Member portals where users fill in forms regularly (coaching, training, support)"
+msgstr "Portales de miembros donde los usuarios rellenan formularios regularmente (coaching, formación, soporte)"
+
+msgid "Customer accounts in WooCommerce where checkout-related forms should pre-fill"
+msgstr "Cuentas de clientes en WooCommerce donde los formularios relacionados con el checkout deben rellenarse previamente"
+
+msgid "Internal staff forms where the WordPress login is enough identification"
+msgstr "Formularios internos del personal donde el inicio de sesión en WordPress es identificación suficiente"
+
+msgid "When to turn it off"
+msgstr "Cuándo desactivarlo"
+
+msgid "On sites with many logged-in non-form visitors (forum members, free-trial accounts, large customer base) you may not want a token generated for every visitor who never fills in a form. Turn the setting off in %s."
+msgstr "En sitios con muchos visitantes conectados que no rellenan formularios (miembros del foro, cuentas de prueba gratuita, gran base de clientes) tal vez no quieras generar un token para cada visitante que nunca rellena un formulario. Desactiva la opción en %s."
+
+msgid "Settings -> Identification fallbacks"
+msgstr "Ajustes -> Alternativas de identificación"
+
+msgid "Auto-generated tokens have source \"wp_user_auto\" in the Tokens overview, so you can identify and clean them up separately if needed."
+msgstr "Los tokens generados automáticamente tienen el origen \"wp_user_auto\" en la vista de Tokens, para que puedas identificarlos y limpiarlos por separado si es necesario."
+
+msgid "FluentCRM as data source"
+msgstr "FluentCRM como fuente de datos"
+
+msgid "When FluentCRM is active, Pure Smart Form ID can read contact data directly from FluentCRM and use it for form pre-fill and shortcodes. This makes FluentCRM the master record for contact information; PSFID tokens stay leading for identification."
+msgstr "Cuando FluentCRM está activo, Pure Smart Form ID puede leer datos de contacto directamente de FluentCRM y usarlos para rellenar formularios y shortcodes. Así FluentCRM es el registro maestro para la información de contacto; los tokens PSFID siguen siendo principales para la identificación."
+
+msgid "What gets merged"
+msgstr "Qué se fusiona"
+
+msgid "Standard fields: first_name, last_name, email, phone, company, address_line_1, address_line_2, postal_code, city, state, country"
+msgstr "Campos estándar: first_name, last_name, email, phone, company, address_line_1, address_line_2, postal_code, city, state, country"
+
+msgid "All custom_values stored on the FluentCRM contact"
+msgstr "Todos los custom_values almacenados en el contacto de FluentCRM"
+
+msgid "Conflict rule"
+msgstr "Regla de conflicto"
+
+msgid "FluentCRM wins when both PSFID and FluentCRM have a value for the same key. Empty FluentCRM values never overwrite PSFID data, so a blank custom field will not erase a value the visitor previously entered through a form."
+msgstr "FluentCRM gana cuando PSFID y FluentCRM tienen un valor para la misma clave. Los valores vacíos de FluentCRM nunca sobrescriben los datos de PSFID, así que un campo personalizado vacío no borra un valor que el visitante haya introducido previamente a través de un formulario."
+
+msgid "Restricting which fields are merged"
+msgstr "Limitar qué campos se fusionan"
+
+msgid "By default, all available fields are merged. To limit this, add a filter in your theme or a custom plugin:"
+msgstr "Por defecto, se fusionan todos los campos disponibles. Para limitarlo, añade un filtro en tu theme o un plugin personalizado:"
+
+msgid "WordPress users"
+msgstr "Usuarios de WordPress"
+
+# === 1.4.0 additions ===
+
+msgid "FluentCRM contact recognition via URL"
+msgstr "Reconocimiento de contactos FluentCRM por URL"
+
+msgid "Recognize a visitor when a URL contains the value of a FluentCRM custom field. Useful for existing email links like ?rid=VALUE that point to a FluentCRM contact field. No data in FluentCRM is changed."
+msgstr "Reconoce a un visitante cuando una URL contiene el valor de un campo personalizado de FluentCRM. Útil para enlaces de email existentes como ?rid=VALOR que apuntan a un campo de contacto de FluentCRM. No se cambia ningún dato en FluentCRM."
+
+msgid "Enable URL recognition"
+msgstr "Activar reconocimiento por URL"
+
+msgid "Resolve a URL parameter against a FluentCRM custom field"
+msgstr "Resolver un parámetro de URL contra un campo personalizado de FluentCRM"
+
+msgid "The query parameter that carries the value. For example %s."
+msgstr "El parámetro de consulta que lleva el valor. Por ejemplo %s."
+
+msgid "FluentCRM custom field slug"
+msgstr "Slug del campo personalizado de FluentCRM"
+
+msgid "The slug of the FluentCRM custom field to match against. If your emails use %1$s, the slug is %2$s."
+msgstr "El slug del campo personalizado de FluentCRM con el que comparar. Si tus emails usan %1$s, el slug es %2$s."
+
+msgid "Token custom field slug"
+msgstr "Slug del campo personalizado para el token"
+
+msgid "The FluentCRM custom field where the PSFID token is written on each sync. Default: psfid_token."
+msgstr "El campo personalizado de FluentCRM donde se escribe el token PSFID en cada sincronización. Por defecto: psfid_token."
+
+msgid "do not point this at a field you already use for URL recognition (e.g. random_userid), or PSFID will overwrite those existing values."
+msgstr "no apuntes esto a un campo que ya uses para el reconocimiento por URL (por ejemplo random_userid), o PSFID sobrescribirá esos valores existentes."
+
+msgid "On save, PSFID tries to create the custom field %s automatically. If your FluentCRM version does not allow this, create a Text custom field with that exact slug manually under FluentCRM -> Settings -> Custom Fields."
+msgstr "Al guardar, PSFID intenta crear el campo personalizado %s automáticamente. Si tu versión de FluentCRM no lo permite, crea manualmente un campo personalizado de tipo Texto con ese slug exacto en FluentCRM -> Ajustes -> Campos personalizados."
